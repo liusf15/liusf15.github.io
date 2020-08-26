@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{research.html}
+# jemdoc: nodefaultcss, addcss{example.css}
+= Research 
+
+- Fan Yang, Sifan Liu, Edgar Dobriban, David P. Woodruff, [https://arxiv.org/abs/2005.00511 How to reduce dimension with PCA and random projections], 2020
+
+- Jonathan Lacotte, Sifan Liu, Edgar Dobriban, Mert Pilanci, [https://arxiv.org/abs/2002.00864 Limiting spectrum of randomized hadamard transform and optimal iterative sketching methods], 2020
+
+- Sifan Liu and Edgar Dobriban, [https://arxiv.org/abs/1910.02373 Ridge regression: Structure, cross-validation, and sketching], Eighth International Conference on Learning Representations (ICLR 2020), Spotlight.
+
+- Edgar Dobriban and Sifan Liu, [https://arxiv.org/abs/1810.06089 Asymptotics for sketching in least squares regression], Thirty-third Conference on Neural Information Processing Systems (NeurIPS 2019).

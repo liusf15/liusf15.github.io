@@ -1,0 +1,5 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: nodefaultcss, addcss{example.css}
+= Sifan Liu -- Home page
+
+I'm a second year Ph.D. student in the Statistics Department at Stanford University.
