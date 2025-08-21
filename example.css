@@ -32,14 +32,15 @@ body {
 }
 
 #layout-content {
-	padding-top: 0.0em;
-	padding-left: 1.0em;
-	padding-right: 1.0em;
+    max-width: 1200px;      /* limit line length for readability */
+    margin: 0 auto;        /* center the block horizontally */
+    padding: 0 1.5em;      /* keep a bit of spacing inside */
     border: none;
     background: white;
     text-align: left;
     vertical-align: top;
 }
+
 
 #layout-menu a {
 	line-height: 1.5em;
